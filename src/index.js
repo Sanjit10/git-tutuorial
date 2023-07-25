@@ -1,6 +1,6 @@
 let data= {
             file_name:"index.js",
-            version:"2"
+            version:"3"
           }
 
 console.log(data.file_name);
