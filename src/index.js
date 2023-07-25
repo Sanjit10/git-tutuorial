@@ -3,5 +3,5 @@ let data= {
             version:"1"
           }
 
-          console.log(data.file_name);
-          console.log( '\n' + data.version);
+console.log(data.file_name);
+console.log( '\n' + data.version);
